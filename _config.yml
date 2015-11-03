@@ -1,0 +1,23 @@
+name: Run Away With Me
+favicon: null
+layout_spectrum: 0.2381067262031138
+typography_spectrum: 0.9591406411491334
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.6502299702260643
+  lightness: 0.14887191844172776
+  saturation: 0.6200911297928542
+  rhythmicContrast: 0.4790387465618551
+purpose: []
